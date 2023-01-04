@@ -14,6 +14,7 @@
                 <text id="Funding-Copy" font-family="NotoSansSC-Regular, Noto Sans SC Regular" font-size="12" font-weight="normal" fill="#FFFFFF">
                     <tspan x="60" y="81">Funding</tspan>
                 </text>
+                <text id="Vanilla-or-Quanto-Se" font-family="NotoSansSC-Regular, Noto Sans SC Regular" font-size="12" font-weight="normal" fill="#007DFF">
                     <tspan x="60" y="41">Vanilla or Quanto Settlement</tspan>
                 </text>
                 <text id="Contract-Copy-4" font-family="NotoSansSC-Regular, Noto Sans SC Regular" font-size="12" font-weight="normal" fill="#FFFFFF">
