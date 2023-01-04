@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="618px" height="229px" viewBox="0 0 618 229" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.2 (72643) - https://sketchapp.com -->
+    <title>Funding rate - Interest 3</title>
+    <desc>Created with Sketch.</desc>
+    <g id="web" stroke="none" strokeWidth="1" fill="none" fill-rule="evenodd">
+        <g id="Futures-guide" transform="translate(-585.000000, -4040.000000)">
+            <g id="Funding-rate---Interest-3" transform="translate(585.000000, 4040.000000)">
+                <rect id="Rectangle-Copy-8" stroke="#FFFFFF" opacity="0.203241257" x="0.5" y="0.5" width="617" height="228" rx="1"></rect>
+                <g id="plus-copy-2" transform="translate(143.000000, 98.000000)" stroke="#FFFFFF" stroke-linecap="square">
+                    <path d="M0.5,4 L6.5,4" id="Line-2-Copy-3"></path>
+                    <path d="M0.5,4 L6.5,4" id="Line-2-Copy-8" transform="translate(3.500000, 4.000000) rotate(-270.000000) translate(-3.500000, -4.000000) "></path>
+                </g>
+                <text id="Funding-Copy" font-family="NotoSansSC-Regular, Noto Sans SC Regular" font-size="12" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="60" y="81">Funding</tspan>
+                </text>
+                    <tspan x="60" y="41">Vanilla or Quanto Settlement</tspan>
+                </text>
+                <text id="Contract-Copy-4" font-family="NotoSansSC-Regular, Noto Sans SC Regular" font-size="12" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="143" y="81">Contract </tspan>
+                </text>
+                <text id="Contract-Copy-5" font-family="NotoSansSC-Regular, Noto Sans SC Regular" font-size="12" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="143" y="155">Contract </tspan>
+                </text>
+                <g id="Group-4" transform="translate(399.000000, 66.000000)" fill="#FFFFFF" font-family="Noto Sans SC, Noto Sans CJK JP" font-weight="normal">
+                    <text id="Price-Copy-5" font-size="12">
+                        <tspan x="0" y="14">Price</tspan>
+                    </text>
+                    <text id="Index-Copy-5" font-size="8">
+                        <tspan x="32" y="17">Index</tspan>
+                    </text>
+                </g>
+                <g id="Group-4-Copy" transform="translate(502.000000, 140.000000)" fill="#FFFFFF" font-family="Noto Sans SC, Noto Sans CJK JP" font-weight="normal">
+                    <text id="Price-Copy-5" font-size="12">
+                        <tspan x="0" y="14">Price</tspan>
+                    </text>
+                    <text id="Index-Copy-5" font-size="8">
+                        <tspan x="30" y="17">Index</tspan>
+                    </text>
+                </g>
+                <g id="Group-5" transform="translate(317.000000, 92.000000)" fill="#FFFFFF" font-family="Noto Sans SC, Noto Sans CJK JP" font-weight="normal">
+                    <text id="Price-Copy-7" font-size="12">
+                        <tspan x="0" y="14">Price</tspan>
+                    </text>
+                    <text id="Index-Copy-7" font-size="8">
+                        <tspan x="30" y="17">Index</tspan>
+                    </text>
+                </g>
+                <g id="Group-Copy-4" transform="translate(329.000000, 67.000000)" fill="#FFFFFF">
+                    <text id="Price" font-family="Noto Sans SC, Noto Sans CJK JP" font-size="12" font-weight="400">
+                        <tspan x="0" y="14">Price</tspan>
+                    </text>
+                    <text id="AAX" font-family="Noto Sans SC, Noto Sans CJK JP" font-size="8" font-weight="normal">
+                        <tspan x="32" y="17">AAX</tspan>
+                    </text>
+                </g>
+                <g id="Group-Copy-5" transform="translate(318.000000, 140.000000)" fill="#FFFFFF">
+                    <text id="Price" font-family="Noto Sans SC, Noto Sans CJK JP" font-size="12" font-weight="400">
+                        <tspan x="0" y="14">Price</tspan>
+                    </text>
+                    <text id="AAX" font-family="Noto Sans SC, Noto Sans CJK JP" font-size="8" font-weight="normal">
+                        <tspan x="32" y="17">AAX</tspan>
+                    </text>
+                </g>
+                <g id="Group-6" transform="translate(403.000000, 93.000000)">
+                    <text id="Interest-Copy-2" font-family="Noto Sans SC, Noto Sans CJK JP" font-size="8" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="13" y="15">Interest</tspan>
+                    </text>
+                    <polygon id="Triangle-Copy-2" stroke="#FFFFFF" points="5 0 10 13 0 13"></polygon>
+                </g>
+                <g id="Group-6-Copy" transform="translate(431.000000, 141.000000)">
+                    <text id="Interest-Copy-2" font-family="Noto Sans SC, Noto Sans CJK JP" font-size="8" font-weight="normal" fill="#FFFFFF">
+                        <tspan x="13" y="15">Interest</tspan>
+                    </text>
+                    <polygon id="Triangle-Copy-2" stroke="#FFFFFF" points="5 0 10 13 0 13"></polygon>
+                </g>
+                <text id="1-copy-4" font-family="NotoSansSC-Regular, Noto Sans SC Regular" font-size="12" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="401" y="155">1</tspan>
+                </text>
+                <text id="Contract-Copy-6" font-family="NotoSansSC-Regular, Noto Sans SC Regular" font-size="12" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="156.08" y="107">Contract</tspan>
+                </text>
+                <path d="M384.5,76 L390.5,76" id="Line-2-Copy-18" stroke="#FFFFFF" stroke-linecap="square"></path>
+                <path d="M377.5,150 L383.5,150" id="Line-2-Copy-19" stroke="#FFFFFF" stroke-linecap="square"></path>
+                <path d="M419.5,150 L425.5,150" id="Line-2-Copy-20" stroke="#FFFFFF" stroke-linecap="square"></path>
+                <text id="(-copy-4" font-family="NotoSansSC-Regular, Noto Sans SC Regular" font-size="12" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="318" y="81">(</tspan>
+                </text>
+                <text id="(-copy-5" font-family="NotoSansSC-Regular, Noto Sans SC Regular" font-size="12" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="307" y="155">(</tspan>
+                </text>
+                <text id="(-copy-6" font-family="NotoSansSC-Regular, Noto Sans SC Regular" font-size="12" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="389" y="155">(</tspan>
+                </text>
+                <text id=")-copy-4" font-family="NotoSansSC-Regular, Noto Sans SC Regular" font-size="12" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="461" y="81">)</tspan>
+                </text>
+                <text id=")-copy-5" font-family="NotoSansSC-Regular, Noto Sans SC Regular" font-size="12" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="479" y="155">)</tspan>
+                </text>
+                <text id=")-copy-6" font-family="NotoSansSC-Regular, Noto Sans SC Regular" font-size="12" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="562" y="155">)</tspan>
+                </text>
+                <text id="=-copy-5" font-family="NotoSansSC-Regular, Noto Sans SC Regular" font-size="12" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="126" y="81">=</tspan>
+                </text>
+                <text id="=-copy-6" font-family="NotoSansSC-Regular, Noto Sans SC Regular" font-size="12" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="126" y="155">=</tspan>
+                </text>
+                <g id="cross-copy-5" transform="translate(297.000000, 76.000000)" stroke="#FFFFFF" stroke-linecap="square">
+                    <path d="M0.5,0 L5.5,5" id="Line-7"></path>
+                    <path d="M0.5,0 L5.5,5" id="Line-7-Copy" transform="translate(3.000000, 2.500000) scale(-1, 1) translate(-3.000000, -2.500000) "></path>
+                </g>
+                <text id="Multiplier" font-family="NotoSansSC-Regular, Noto Sans SC Regular" font-size="12" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="229" y="82">Multiplier</tspan>
+                </text>
+                <text id="Multiplier-Copy" font-family="NotoSansSC-Regular, Noto Sans SC Regular" font-size="12" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="234" y="107">Multiplier</tspan>
+                </text>
+                <text id="Multiplier-Copy-2" font-family="NotoSansSC-Regular, Noto Sans SC Regular" font-size="12" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="220" y="155">Multiplier</tspan>
+                </text>
+                <g id="cross-copy" transform="translate(207.000000, 75.000000)" stroke="#FFFFFF" stroke-linecap="square">
+                    <path d="M0.5,0 L5.5,5" id="Line-7"></path>
+                    <path d="M0.5,0 L5.5,5" id="Line-7-Copy" transform="translate(3.000000, 2.500000) scale(-1, 1) translate(-3.000000, -2.500000) "></path>
+                </g>
+                <g id="cross-copy-11" transform="translate(216.000000, 100.000000)" stroke="#FFFFFF" stroke-linecap="square">
+                    <path d="M0.5,0 L5.5,5" id="Line-7"></path>
+                    <path d="M0.5,0 L5.5,5" id="Line-7-Copy" transform="translate(3.000000, 2.500000) scale(-1, 1) translate(-3.000000, -2.500000) "></path>
+                </g>
+                <g id="cross-copy-6" transform="translate(204.000000, 148.000000)" stroke="#FFFFFF" stroke-linecap="square">
+                    <path d="M0.5,0 L5.5,5" id="Line-7"></path>
+                    <path d="M0.5,0 L5.5,5" id="Line-7-Copy" transform="translate(3.000000, 2.500000) scale(-1, 1) translate(-3.000000, -2.500000) "></path>
+                </g>
+                <g id="cross-copy-9" transform="translate(490.000000, 148.000000)" stroke="#FFFFFF" stroke-linecap="square">
+                    <path d="M0.5,0 L5.5,5" id="Line-7"></path>
+                    <path d="M0.5,0 L5.5,5" id="Line-7-Copy" transform="translate(3.000000, 2.500000) scale(-1, 1) translate(-3.000000, -2.500000) "></path>
+                </g>
+                <g id="cross-copy-7" transform="translate(300.000000, 100.000000)" stroke="#FFFFFF" stroke-linecap="square">
+                    <path d="M0.5,0 L5.5,5" id="Line-7"></path>
+                    <path d="M0.5,0 L5.5,5" id="Line-7-Copy" transform="translate(3.000000, 2.500000) scale(-1, 1) translate(-3.000000, -2.500000) "></path>
+                </g>
+                <g id="cross-copy-12" transform="translate(286.000000, 148.000000)" stroke="#FFFFFF" stroke-linecap="square">
+                    <path d="M0.5,0 L5.5,5" id="Line-7"></path>
+                    <path d="M0.5,0 L5.5,5" id="Line-7-Copy" transform="translate(3.000000, 2.500000) scale(-1, 1) translate(-3.000000, -2.500000) "></path>
+                </g>
+                <g id="cross-copy-8" transform="translate(381.000000, 100.000000)" stroke="#FFFFFF" stroke-linecap="square">
+                    <path d="M0.5,0 L5.5,5" id="Line-7"></path>
+                    <path d="M0.5,0 L5.5,5" id="Line-7-Copy" transform="translate(3.000000, 2.500000) scale(-1, 1) translate(-3.000000, -2.500000) "></path>
+                </g>
+                <text id="Vanilla:-Multiplier" font-family="NotoSansSC-Regular, Noto Sans SC Regular" font-size="10" font-weight="normal" fill="#FFFFFF">
+                    <tspan x="60" y="203">Vanilla: Multiplier = 1</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
